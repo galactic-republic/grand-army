@@ -10,4 +10,4 @@ The Grand Army of the Republic, also referred to as the Republic army, was the m
 
 
 PS:
-As mentioned on [Software Development In a Galaxy Far, Far Away](https://builttoadapt.io/software-development-in-a-galaxy-far-far-away-5c7a8f5a1a4d)
+As mentioned on [Software Development In a Galaxy Far, Far Away](https://blogs.vmware.com/tanzu/software-development-in-a-galaxy-far-far-away/)
